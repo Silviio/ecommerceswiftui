@@ -34,7 +34,7 @@ struct NavigationBarView: View {
             
             Button(action: {}, label: {
                 ZStack {
-                    Image(systemName: "magnifyingglass")
+                    Image(systemName: "cart")
                         .font(.title)
                     .foregroundColor(.black)
                     Circle()
